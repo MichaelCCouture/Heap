@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\HeapTests\bin\Debug\HeapTests.dll" total="13" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-08" time="23:45:16">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="COUTURE" user="Michael" user-domain="COUTURE" />
+  <culture-info current-culture="en-CA" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\HeapTests\bin\Debug\HeapTests.dll" executed="True" result="Success" success="True" time="0.316" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="HeapTests" executed="True" result="Success" success="True" time="0.299" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Tests" executed="True" result="Success" success="True" time="0.297" asserts="0">
+            <results>
+              <test-case name="HeapTests.Tests.AttemptInsertOnFullArray" executed="True" result="Success" success="True" time="0.231" asserts="1" />
+              <test-case name="HeapTests.Tests.CheckCounterAfterRemovingMin" executed="True" result="Success" success="True" time="0.014" asserts="1" />
+              <test-case name="HeapTests.Tests.CheckEmpty" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="HeapTests.Tests.CheckNotEmpty" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="HeapTests.Tests.CheckThreeEntries" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="HeapTests.Tests.CheckZeroEntries" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="HeapTests.Tests.ExceptionOnNegativeSizeArray" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="HeapTests.Tests.ExceptionOnTooLargeHeap" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="HeapTests.Tests.FindBookAfterPreviousMinRemoved" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="HeapTests.Tests.FindBookInsertedInOrder" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="HeapTests.Tests.FindBookInsertedNotInOrder" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="HeapTests.Tests.GetMinAfterInsert" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="HeapTests.Tests.GetMinFromEmptyArray" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

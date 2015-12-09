@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1008]C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\SortPlayersTests\bin\Debug\SortPlayersTests.dll</TopNode>
+  <SelectedNode>[0-1000]SortPlayersTest.Tests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1008]C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\SortPlayersTests\bin\Debug\SortPlayersTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1009]SortPlayersTest" Expanded="true" />
+    <Node UniqueName="[0-1000]SortPlayersTest.Tests" Expanded="true" />
+  </Nodes>
+</VisualState>

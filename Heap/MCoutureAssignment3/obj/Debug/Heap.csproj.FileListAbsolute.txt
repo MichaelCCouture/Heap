@@ -1,0 +1,12 @@
+C:\Users\Michael\Documents\Michael\School\MCoutureAssignment3\MCoutureAssignment3\bin\Debug\MCoutureAssignment3.dll
+C:\Users\Michael\Documents\Michael\School\MCoutureAssignment3\MCoutureAssignment3\bin\Debug\MCoutureAssignment3.pdb
+C:\Users\Michael\Documents\Michael\School\MCoutureAssignment3\MCoutureAssignment3\obj\Debug\MCoutureAssignment3.dll
+C:\Users\Michael\Documents\Michael\School\MCoutureAssignment3\MCoutureAssignment3\obj\Debug\MCoutureAssignment3.pdb
+C:\Users\Michael\Desktop\MCoutureAssignment3\MCoutureAssignment3\bin\Debug\MCoutureAssignment3.dll
+C:\Users\Michael\Desktop\MCoutureAssignment3\MCoutureAssignment3\bin\Debug\MCoutureAssignment3.pdb
+C:\Users\Michael\Desktop\MCoutureAssignment3\MCoutureAssignment3\obj\Debug\MCoutureAssignment3.dll
+C:\Users\Michael\Desktop\MCoutureAssignment3\MCoutureAssignment3\obj\Debug\MCoutureAssignment3.pdb
+C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\MCoutureAssignment3\bin\Debug\MCoutureAssignment3.dll
+C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\MCoutureAssignment3\bin\Debug\MCoutureAssignment3.pdb
+C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\MCoutureAssignment3\obj\Debug\MCoutureAssignment3.dll
+C:\Users\Michael\Desktop\SchoolOldFiles\Old Files\Quality Assurance\MCAssignment3\MCoutureAssignment3\MCoutureAssignment3\obj\Debug\MCoutureAssignment3.pdb
